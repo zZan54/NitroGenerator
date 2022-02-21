@@ -1,2 +1,5 @@
 # NitroGenerator
-Discord Nitro Generator
+* Easy to use Discord Nitro Generator
+
+## Install
+`pip install numpy`
