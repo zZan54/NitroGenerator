@@ -37,9 +37,9 @@ class DiscordNitroGenerator:
             try:
                 code = ''.join(x for x in s)
                 
-                url1 = f" https://discord.gift/{code}"
-                url2 = f" discord.gift/{code}"
-                url3 = f" {code}"
+                url1 = f"https://discord.gift/{code}"
+                url2 = f"discord.gift/{code}"
+                url3 = f"{code}"
                 if type == 1:
                     url = url1
                 elif type == 2:
